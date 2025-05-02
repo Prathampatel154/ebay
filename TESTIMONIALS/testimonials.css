@@ -1,0 +1,29 @@
+
+#contact-us{
+    margin-top: 5px;
+    background-color: orange;
+    display: flex;
+}
+#map{
+    padding: 5%;
+}
+#adress{
+    padding:4%;
+    text-align: center;
+    width: 50%;
+}
+#adress h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+#adress h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#adress h2{
+    margin-top: 1%;
+    margin-bottom: 3px;
+    font-size: 26px;
+}
+#adress h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+}

@@ -1,0 +1,50 @@
+.ebay{
+    height: 5%;
+    width: 100%;
+    
+}
+#first{
+    background-color: orange;
+    padding-top: 3%;
+}
+#navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:antiquewhite;
+    padding: 1%;
+    border-radius: 3%;
+}
+.links{
+    padding:1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    border-radius: 15%
+}
+.links:hover{
+    background-color: orange;
+
+}
+.links-a{
+    color: black;
+    font-family: "Mukta", sans-serif;
+    font-size:x-large;
+    font-weight: 500;
+}
+a:hover{
+    color: whitesmoke;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: black;
+}a:visited{
+    color: black;
+}
+a:active{
+    color: black;
+}
+
